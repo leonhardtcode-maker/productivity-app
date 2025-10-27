@@ -2,4 +2,4 @@
 
 Productivity type of App for my own
 
-npm run start
+to run : **npm run start**
