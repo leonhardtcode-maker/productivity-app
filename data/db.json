@@ -1,0 +1,104 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Learning Vue",
+      "status": "To Do",
+      "priority": "High",
+      "category": "Career",
+      "time": "14:00",
+      "date": "01-10-2025",
+      "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "2",
+      "title": "Learning Machine Learning",
+      "status": "In Progress",
+      "priority": "High",
+      "category": "Career",
+      "time": "16:30",
+      "date": "02-10-2025",
+      "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+    },
+    {
+      "id": "6",
+      "title": "Learning How to Be Brave",
+      "status": "In Progress",
+      "priority": "Low",
+      "category": "Mind",
+      "time": "15:00",
+      "date": "29-09-2025",
+      "note": "adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "7",
+      "title": "Learning How to achieve Solitude",
+      "status": "Done",
+      "priority": "High",
+      "category": "Soul",
+      "time": "11:00",
+      "date": "30-09-2025",
+      "note": "tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "11",
+      "title": "Read a Philosophy Book",
+      "status": "In Progress",
+      "priority": "Low",
+      "category": "Mind",
+      "time": "14:00",
+      "date": "02-10-2025",
+      "note": "Start with a chapter about existentialism."
+    },
+    {
+      "id": "12",
+      "title": "Read a Philosophy Book",
+      "status": "Done",
+      "priority": "Medium",
+      "category": "Mind",
+      "time": "14:00",
+      "date": "02-10-2025",
+      "note": "Start with a chapter about existentialism."
+    },
+    {
+      "id": "21dc",
+      "title": "Membuat Portofolio via Vue",
+      "status": "Done",
+      "priority": "Medium",
+      "category": "Career",
+      "time": "09:00",
+      "date": "07-10-2025",
+      "note": "Lanjut belajar VUEEE bro"
+    },
+    {
+      "id": "bc37",
+      "title": "Bangun Pagi Sekali",
+      "status": "Done",
+      "priority": "High",
+      "category": "Mind",
+      "time": "03:00",
+      "date": "09-10-2025",
+      "note": "Membiasakan bangun pagi"
+    },
+    {
+      "id": "f108",
+      "title": "Watching Water Wizard",
+      "status": "In Progress",
+      "priority": "Low",
+      "category": "Soul",
+      "time": "15:15",
+      "date": "08-10-2025",
+      "note": "Chilling"
+    },
+    {
+      "id": "1b0f",
+      "title": "Watching SQL Data Analyst Portfolio Project",
+      "status": "In Progress",
+      "priority": "High",
+      "category": "Career",
+      "time": "05:48",
+      "date": "28-10-2025",
+      "note": "Well well"
+    }
+  ]
+}

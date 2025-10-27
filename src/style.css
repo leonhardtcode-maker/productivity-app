@@ -1,0 +1,51 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  /* color: var(--text-color); */
+  /* background-color: var(--bg-dark); */
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* text-size */
+  --text-size: 1rem;
+  --muted-text-size: 0.875rem;
+  --caption-text-size: 0.75rem;
+
+  /* spacing */
+  --spacing-xs: 0.25rem;
+  --spacing-s: 0.5rem;
+  --spacing-m: 1rem;
+  --spacing-l: 1.5rem;
+  --spacing-xl: 2rem;
+  --spacing-xxl: 3rem;
+
+  /* color */
+  --bg-dark: oklch(0.92 0.025 200);
+  --bg: oklch(0.96 0.025 200);
+  --bg-light: oklch(1 0.025 200);
+  --text-color: oklch(0.15 0.05 200);
+  --muted-text-color: oklch(0.3974 0.0494 201.22);
+  --primary-color: oklch(0.4128 0.0703 203);
+  --secondary-color: oklch(0.3993 0.1002 20.28);
+  --highlight-color: oklch(0.9726 0.04 196.51);
+  --border-color: oklch(0.5978 0.0501 199.36);
+  --muted-border-color: oklch(0.6988 0.0502 199.38);
+}
+body {
+  margin: 0;
+}
+#app {
+  margin: 0;
+}
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.5rem;
+}
