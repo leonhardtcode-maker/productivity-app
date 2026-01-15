@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "Learning Vue",
-      "status": "To Do",
+      "status": "Done",
       "priority": "High",
       "category": "Career",
       "time": "14:00",
@@ -13,7 +13,7 @@
     {
       "id": "2",
       "title": "Learning Machine Learning",
-      "status": "In Progress",
+      "status": "Done",
       "priority": "High",
       "category": "Career",
       "time": "16:30",
@@ -23,7 +23,7 @@
     {
       "id": "6",
       "title": "Learning How to Be Brave",
-      "status": "In Progress",
+      "status": "Done",
       "priority": "Low",
       "category": "Mind",
       "time": "15:00",
@@ -43,7 +43,7 @@
     {
       "id": "11",
       "title": "Read a Philosophy Book",
-      "status": "In Progress",
+      "status": "Done",
       "priority": "Low",
       "category": "Mind",
       "time": "14:00",
@@ -83,7 +83,7 @@
     {
       "id": "f108",
       "title": "Watching Water Wizard",
-      "status": "In Progress",
+      "status": "Done",
       "priority": "Low",
       "category": "Soul",
       "time": "15:15",
@@ -93,7 +93,7 @@
     {
       "id": "1b0f",
       "title": "Watching SQL Data Analyst Portfolio Project",
-      "status": "In Progress",
+      "status": "Done",
       "priority": "High",
       "category": "Career",
       "time": "05:48",
