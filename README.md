@@ -15,6 +15,7 @@ The goal of this project is to practice building a frontend application using Vu
 
 ## Built With
 - Vue.js
+- Naive UI
 - JavaScript
 - HTML
 - CSS
