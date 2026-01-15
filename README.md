@@ -6,6 +6,8 @@ A simple productivity web application built with Vue.js to help users manage sch
 This project allows users to create schedules and write notes to organize daily activities.
 The goal of this project is to practice building a frontend application using Vue.js.
 
+> Background image by [Lucas Calloch](https://unsplash.com/it/@dreiimos) uploaded in [unsplash](https://unsplash.com/it/foto/alberi-rossi-e-verdi-accanto-al-fiume-durante-il-giorno-P-yzuyWFEIk)
+
 ## Features
 - Add, edit, and delete schedules
 - Create and manage notes
