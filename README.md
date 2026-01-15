@@ -18,14 +18,14 @@ The goal of this project is to practice building a frontend application using Vu
 - CSS
 
 ## Screenshots
-<figure align="justify">
+<p align="justify">
   <img src="src/assets/demo_1.png" width="45%">
   <img src="src/assets/demo_2.png" width="45%">
-</figure>
-<figure align="justify">
+</p>
+<p align="justify">
   <img src="src/assets/demo_3.png" width="45%">
   <img src="src/assets/demo_4.png" width="45%">
-</figure>
+</p>
 
 
 ## Getting Started
